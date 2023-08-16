@@ -1,4 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    padding: 10px;
+}
 img{
     height: 300px;
     width: auto;
+}
+
+
+.title-area{
+    text-align: center;
+
+}
+
+.description{
+    margin: 0 10%;
+    padding-top: 50px;
+}
+
+.lists{
+    margin: 0 10%;
+    padding-bottom: 10%;
+}
+
+.ingredients,.steps{
+    padding-top: 30px;
 }
